@@ -1,0 +1,3 @@
+[submodule "vendor-actions/ajaykn-public-action"]
+	path = vendor-actions/ajaykn-public-action
+	url = https://github.com/korea-dinos/ajaykn-public-action.git
